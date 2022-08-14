@@ -1,0 +1,19 @@
+h1 {
+	padding-left: 50px
+}
+
+
+.rightside {
+
+	grid-template-columns: right;
+
+}
+
+section {
+
+
+		border: 50px, green;
+		
+
+
+}
